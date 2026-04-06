@@ -1,5 +1,5 @@
 # hello there
-i'm quartzine. quartz works too, idrc
+i'm jer. quartzine or quartz works too, idc
 
 build stuff in my spare time
 
