@@ -1,8 +1,9 @@
-# hello there
-i'm jer. quartzine or quartz works too, idc
+hey
 
-build stuff in my spare time
+i'm jer
 
-student
+build stuff
+
+hs student
 
 that's about it
